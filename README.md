@@ -13,26 +13,16 @@
 
 ## Languages & Tools
 <p align="left">
-<img alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img alt="Vitejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
-<img alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img alt="Bun" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" />
-<img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img alt="CSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg"/> 
-<img alt="Dotnet" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-<img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
-<img alt="Fastify" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" /> 
-<img alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> 
-<img alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /> 
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,bun,python,mongodb,cs,tailwind,vite,postgres,tailwind,docker,git,windows" />
 </p>
 
 ## 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Maksymilian-Dymitr&show_icons=true&theme=tokyonight" alt="Maksymilian's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maksymilian-Dymitr&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maksymilian-Dymitr&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maksymilian-Dymitr&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Maksymilian-Dymitr&theme=tokyonight" />
+
+
  <p align="left">
   <a href="https://github.com/Maksymilian-Dymitr?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Maksymilian-Dymitr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
