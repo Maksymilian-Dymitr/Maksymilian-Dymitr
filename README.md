@@ -2,7 +2,7 @@
 
 **`Full-Stack Developer`**
 
-- 🔭 I’m currently building **Portfolio**
+- 🔭 I’m currently building **Stock-Strategy-Simulator**
 - 💬 **Ask me about:** TypeScript, Fastify, and TailwindCSS.
 - 📫 **How to reach me:** [Email](mailto:maksymilian.dymitr@gmail.com) or [LinkedIn](https://www.linkedin.com/in/maksymilian-dymitr/)
 
